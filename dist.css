@@ -1,0 +1,7 @@
+/* https://github.com/twbs/bootstrap/blob/55a0f9af2738daafe8d961ca35c22800c710bb27/dist/css/bootstrap.css#L212 */
+
+a:not([href]):not([classundefinedundefinedundefined]),
+a:not([href]):not([classundefinedundefinedundefined]):hover {
+  color: inherit;
+  text-decoration: none;
+}
